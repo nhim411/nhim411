@@ -1,11 +1,11 @@
-### Hi there, I'm Nam - [nhim411.github.io][website] 👋
+### Hi there 👋, I'm Nam - [nhim411.github.io][website]
 
 ## I'm a Student, Developer!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Become a developer
-- ⚡ Fun fact: I love play badminton
+- ⚡ Fun fact: I ❤ ️🐶😺s ️and 🏸
 
 ### Connect with me:
 
