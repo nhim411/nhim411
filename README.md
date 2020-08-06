@@ -2,10 +2,10 @@
 
 ## I'm a Student, Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I'm currently working at home because Covid-19 😷
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Become a developer
-- ⚡ Fun fact: I ❤ ️🐶😺s ️and 🏸
+- ⚡ Fun fact: I ❤ ️🐶😺s ️and play 🏸
 
 ### Connect with me:
 
