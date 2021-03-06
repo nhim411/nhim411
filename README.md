@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working at home because Covid-19 😷
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Become a developer
+- 🥅 2021 Goals: Become a developer
 - ⚡ Fun fact: I ❤ ️🐶😺s ️and play 🏸
 
 ### Connect with me:
