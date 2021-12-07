@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋, I'm Nam - [nhim411.github.io][website]
+### Hi there 👋, I'm Nam
 
 </div>
 
