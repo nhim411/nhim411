@@ -20,6 +20,8 @@
 - Some pet project web application: [React-Todo-App](https://www.example.com), [Javascript-Form validaton-library](https://github.com/nhim411/form-validation), [landingpage-shopee-product](https://www.example.com), [landingpage-w3s-band](https://github.com/nhim411/w3s-band-clone)
 - IoT module for BCS2 Device - Integrated design of industrial IoT communication module for Shinko BCS2 device : [link](https://github.com/nhim411/IoT-module-for-BCS2)
 - PLC Handmade - Built hardware and software for a product like PLC using microcontroller : [link](https://github.com/nhim411/scada-plc-handmade)
+- Montion Tracking PIC assembly  - Built hardware and software for a Montion Tracking using assemply language : [link](https://github.com/nhim411/montion-tracking-pic-assembly)
+- Obstacle Avoiding Robot  - Built hardware and software for Obstacle Avoiding Robot using Real time operating system  : [link](https://github.com/nhim411/Obstacle-Avoiding-Robot)
 
 ---
 
