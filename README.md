@@ -7,7 +7,6 @@
 <img align="right" alt="GIF" height="160px" height="160px" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" />
 
 - 🎓 I graduated at DUT - Danang University of Technology. My major is Control Engineering and Automation.
-- 👓 I have been learning web programming since 6 months.
 <!-- - 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack etc. -->
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
 - 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.
