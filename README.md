@@ -12,7 +12,11 @@
 - 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.
 <!-- - ⚡ Fun facts: I love to play the game & code. -->
 
----
+## 📧 Contact me
+
+[https://www.facebook.com/lhnam411](https://www.facebook.com/lhnam411)
+
+[https://www.linkedin.com/in/nhim411](https://www.linkedin.com/in/nhim411)
 
 ## Project for learning
 
@@ -26,11 +30,11 @@
 
 <div align="center">
 </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhim411&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=D93A7C&icon_color=F7D747&text_color=A9FEF7&bg_color=0,000000,141321" alt="Nam's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhim411&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" alt="Nam's Github Stats">
 </br>
 </br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhim411&theme=tokyonight" alt="Nam's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhim411&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" alt="Nam's Github Stats">
 
 </br>
 </br>
